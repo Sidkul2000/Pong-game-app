@@ -1,0 +1,3 @@
+title = PONG
+authur = Siddhant Kulkarni
+orientation = landscape
